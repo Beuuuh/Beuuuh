@@ -2,6 +2,6 @@
 - 
 - 🐍 I’m interested in Python, JS, Java and C
 - 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning front-end development, also doing The Odin Project
 - 
 - 🔪 How to reach me Discord
