@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>My name is <i>Bell</i>, and I'm a self-taught programmer
+<p>My name is <i>Bell</i>, and I'm a stutend at UFC
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Beuuuh&theme=nightowl&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
